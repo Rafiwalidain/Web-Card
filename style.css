@@ -1,0 +1,9 @@
+.tanpa-bs {
+  border: none;
+  padding: 20px;
+  font-weight: 800;
+  font-size: 3em;
+  background-color: aquamarine;
+  color: blueviolet;
+  cursor: pointer;
+}
